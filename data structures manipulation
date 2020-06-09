@@ -1,0 +1,15 @@
+lst=[]
+lst1=[]
+lst.append(3)
+lst1.append('$')
+print(lst)
+print(lst1)
+tup=(lst)
+print(tup[0])
+dict={}
+for i in range(3):
+    dict[i]='i'
+print(dict)
+del(dict[1])
+print(dict)
+
