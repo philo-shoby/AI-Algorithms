@@ -10,5 +10,6 @@ This repository consists of simple python programs as well as different algorith
 
 > [Classification_using_Random_Forest_Classifier](https://github.com/philo-shoby/AI-Algorithms/blob/master/Classification_using_Random_Forest_Classifier.ipynb) : Random Forest Classifier algorithm implemented using MNIST dataset which illustrates classification
 
+> [Comparison of different algorithms](https://github.com/philo-shoby/AI-Algorithms/blob/master/Comparison_of_different_algorithms.ipynb) : This project contains data preprocessing, data visualisation, development, comparison and evaluation of various linear and non linear models 
 
 
